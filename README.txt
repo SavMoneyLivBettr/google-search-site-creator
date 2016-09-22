@@ -1,5 +1,3 @@
-If you have any questions or problems, please email me at jacobsskowronek@gmail.com
-
 This will create an HTML page based on template.html
 
 Required libraries:
@@ -15,5 +13,3 @@ The images are retrieved by taking the title of the page, and doing a Google Ima
 
 Once run, you will prompted to enter a search query.
 The new HTML page will be created, and named after the search term, and today's date.
-
-Everything in the code should be commented, so feel free to change and modify anything.
